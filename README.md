@@ -36,15 +36,18 @@ Download or clone this repository, then open a terminal in the project folder co
 
 ### 1. Install dependencies
 
-
+```bash
 npm install
-
+```
 If Windows PowerShell blocks npm, use:
+
+```bash
 npm.cmd install
-
+```
 2. Start the server
+```bash
 node server.js
-
+```
 When the server starts, it connects to database.db and creates the books table automatically if it does not already exist.
 The server runs at:
 http://localhost:3000
