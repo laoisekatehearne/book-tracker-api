@@ -28,8 +28,6 @@ The available reading statuses are:
 
 The database uses an auto-incrementing ID for each book.
 
-Yep — copy and paste this whole section directly into your `README.md`:
-
 ```markdown
 ## Getting started
 
