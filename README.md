@@ -36,7 +36,7 @@ Download or clone this repository, then open a terminal in the project folder co
 
 ### 1. Install dependencies
 
-```bash
+
 npm install
 
 If Windows PowerShell blocks npm, use:
